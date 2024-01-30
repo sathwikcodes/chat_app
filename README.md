@@ -55,6 +55,9 @@ If you have any feedback, questions, or need support with our Flutter Chat Appli
 - Firebase
 - Dart
 
+  ## Screenshots:
+  ![Screenshot](https://github.com/sathwikcodes/chat_app/blob/main/Screenshot%20(35).png)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
